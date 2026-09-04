@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+email = input("Enter your email: ")
+print(f"Name: {name}, Age: {age}, City: {city}, Email: {email}")
